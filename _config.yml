@@ -13,7 +13,7 @@ title                    : "Aryan Atre"
 title_separator          : "-"
 name                     : &name "Aryan Atre"
 description              : &description "Data Strategy & Machine Learning Intern at Wpp"
-url                      : https://aryan_atre.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://atrearyanuf.github.io/aryan_atre.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "https://aryan_atre.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "atrearyanuf/aryan_atre.github.io"
 
