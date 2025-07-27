@@ -22,7 +22,7 @@ repository               : "atrearyan/aryan_atre.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Profile Pic.jpg""
+  avatar           : "images/Profile Pic.jpg"
   name             : "Aryan Atre"
   pronouns         : # example: "she/her"  
   bio              : "Data Strategy & Machine Learning Intern at Wpp"
