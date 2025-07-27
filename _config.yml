@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Aryan Atre"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Aryan Atre"
-description              : &description "Working at Wpp as a Data Strategy and Machine Learning Intern. Wpp is Investment and Finance firm with billings over $60 Billion Usd."
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Aryan Atre"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Working at Wpp as a Data Strategy and Machine Learning Intern."
-  location         : "New York City"
-  employer         : "University of Florida"
-  uri              : "https://www.linkedin.com/in/aryan-atre"
-  email            : "atrearyan@gmail.com" 
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Username # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/aryan-atre
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
