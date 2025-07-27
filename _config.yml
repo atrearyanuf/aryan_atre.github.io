@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Aryan Atre"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Working at Wpp as a Data Strategy and Machine Learning Intern."
+  location         : "New York City"
+  employer         : "University of Florida"
+  uri              : "https://www.linkedin.com/in/aryan-atre"
+  email            : "atrearyan@gmail.com" 
 
   # Academic websites
   academia         : # URL
