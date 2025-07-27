@@ -47,6 +47,12 @@ Used deep learning and Grad-CAM to classify pneumonia from chest X-rays, includi
 
 ## 💼 Experience
 
+### 💻 Data Strategy and Machine Learning Intern | Wpp
+_Jun 2025 – Aug 2025_ 
+- Collaborated with ALDI on analyzing shopping engagement and behavioral trends to develop data-driven strategies that influenced $6B+ in investment planning.
+- Utilized AI-powered analytics platforms to generate actionable insights and support the creation of effective, scalable data strategies across multiple client portfolios.
+- Applied advanced ML techniques including neural networks (PyTorch), K-Means clustering, and synthetic data generation to uncover behavioral patterns and simulate market response scenarios.
+
 ### 🧠 Machine Learning Intern | Ernst & Young  
 _Jun 2024 – Aug 2024_  
 - Enhanced NLP with OCR + LLMs  
@@ -59,16 +65,18 @@ _Jan 2024 – May 2024_
 - YOLOv8 anomaly detection  
 - Dockerized for real-time production
 
-### 🔐 Software Dev & Cybersecurity Intern | Securizen Pvt Ltd  
+<!-- ### 🔐 Software Dev & Cybersecurity Intern | Securizen Pvt Ltd  
 _Dec 2023 – Jan 2024_  
 - Improved CloudCCTV dashboard (MERN)  
-- Conducted white-hat security testing  
+- Conducted white-hat security testing   -->
 
 ---
 
 ## 🏅 Certifications
 
 - Amazon Bedrock  
+- Data Analyst 
+- A/B Testing
 - DL with CNN, RNN, NLP  
 - AWS & Azure Cloud Management  
 - Agile Project Management  
