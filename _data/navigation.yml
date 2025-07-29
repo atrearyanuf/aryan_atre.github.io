@@ -10,7 +10,7 @@
 main:
   - title: "Projects"
     url: /files/annotated-Final_project_report_CORAS.pdf
-    url: files/IEEE_Conference_Template__8_.pdf
+    # url: files/IEEE_Conference_Template__8_.pdf
 
   # - title: "Talks"
   #   url: /talks/    
