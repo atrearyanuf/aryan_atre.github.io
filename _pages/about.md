@@ -65,7 +65,7 @@ I’m open to **new grad roles**, **internships**, and **collaborations** in:
 - Scalable AI Products  
 
 Let’s connect and explore how we can build something impactful.  
-📫 **atrearyan@gmail.com** | 🔗 [LinkedIn](https://linkedin.com/in/your-link)
+📫 **atrearyan@gmail.com** | 🔗 [LinkedIn](www.linkedin.com/in/aryan-atre)
 
 ---
 
