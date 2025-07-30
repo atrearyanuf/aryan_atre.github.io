@@ -1,61 +1,72 @@
 ---
 permalink: /
-title: "Aryan Atre | Data Strategy & AI Intern | M.S. AI @ UF"
+title: "Aryan Atre | Data Strategy Meets Machine Learning"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Welcome!
+# Bridging Data, Intelligence & Impact 🚀
 
-I’m **Aryan Atre**, a passionate machine learning and AI practitioner currently pursuing my **Master’s in Artificial Intelligence Systems** at the **University of Florida**. With a strong foundation in computer science and hands-on experience across industry-leading companies, I thrive at the intersection of data, strategy, and intelligent systems.
+Hi, I’m **Aryan Atre** — a technologist and strategist-in-the-making, currently pursuing my **Master’s in Artificial Intelligence Systems** at the **University of Florida**, and building smart, scalable solutions where **machine learning meets business strategy**.
 
----
-
-## 🔍 Currently: Data Strategy & Machine Learning Intern at WPP, NYC
-
-At **WPP**, I’ve been working on **ML-driven insights** that influence over **$6B in client decisions**, helping global brands translate complex data into high-impact business strategies. I blend machine learning, behavioral analytics, and stakeholder communication to deliver real-world value at scale.
+Whether it’s aligning algorithms with insights at **WPP**, shaping financial intelligence at **EY**, or deploying real-time media AI at **Neural Garage**, I bring a systems-thinking mindset and hands-on engineering skills to every project I touch.
 
 ---
 
-## 🧠 What Drives Me
+## 💼 Current Role: Data Strategy & Machine Learning Intern @ WPP
 
-Whether it's deploying a **Retrieval-Augmented Generation (RAG)** pipeline, optimizing NLP search using **LLMs and OCR**, or building real-time media AI systems, my work is driven by one mission: **turning raw data into meaningful action**.
+At **WPP New York**, I work at the intersection of ML, data, and business. From analyzing user behavior to modeling $6B+ client decisions, I help global brands unlock value with algorithms — blending neural networks, clustering, and visual storytelling to turn messy data into actionable strategy.
 
-With projects and internships across **consulting**, **finance**, and **media-tech**, I bring a diverse problem-solving toolkit that spans:
-
-- **Deep Learning** (ResNet-50, LSTMs, Transformers)  
-- **MLOps & Deployment** (Docker, Kubernetes, Prometheus, Grafana)  
-- **Cloud Platforms** (AWS, Azure)  
-- **Data Strategy** (User behavior modeling, A/B testing, Forecasting)  
-- **Tools**: Python, PyTorch, TensorFlow, SQL, Pinecone, OpenAI API, Flask, LangChain, etc.
+This experience has deepened my passion for consulting, where data doesn’t just explain — it **influences**, **guides**, and **transforms**.
 
 ---
 
-## 🏗️ Recent Projects
+## 🧠 What I Love Building
 
-- **Context-Based Knowledge Retrieval using RAG**  
-  A multimodal system that processes both PDFs and audio data using OpenAI + Pinecone + Whisper, deployed via Flask API.  
+I believe in the power of AI **beyond the model** — where intelligence systems are usable, explainable, and impactful. My interests lie in:
 
-- **Pneumonia Detection from Medical Images**  
-  Used ResNet-50 with Grad-CAM to detect pneumonia and interpret high-density regions in X-rays.
-
-- **Real-Time Lip-Sync AI at Neural Garage**  
-  Built scalable ML pipelines with PyTorch and YOLOv8, improving dubbing and avatar sync for media production.
-
----
-
-## 💼 Experience Snapshot
-
-- **WPP** – Data Strategy & ML Intern  
-- **Ernst & Young** – Machine Learning Intern (Finance & Compliance)  
-- **Neural Garage** – ML Research Intern (Media & AI Lip Sync)  
+- **AI for Decision-Making** — ML models that inform real-world choices  
+- **Retrieval-Augmented Generation** — Combining LLMs with smart indexing  
+- **NLP + Finance** — Search optimization, OCR, and compliance automation  
+- **AI in Media** — Real-time lip-sync, object detection, deep visual models  
+- **MLOps** — Building robust, production-ready pipelines  
 
 ---
 
-## 🌎 Let’s Collaborate
+## 🛠️ Tools & Technologies
 
-I'm actively looking for **internships or full-time roles** in **AI, machine learning, data strategy, or consulting**, where I can build systems that make a measurable difference. 
+Python · PyTorch · TensorFlow · LangChain · OpenAI API · Pinecone · AWS · Azure  
+Docker · Kubernetes · Grafana · Prometheus · SQL · Flask · Scikit-learn · YOLOv8
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-link) or reach out at **atrearyan@gmail.com**.
+---
+
+## 📌 Projects Snapshot
+
+**🧠 GenAI Knowledge Retrieval (RAG)**  
+Built a multimodal RAG pipeline for document/audio Q&A using OpenAI + Whisper + Pinecone.  
+
+**🩺 Pneumonia Detection**  
+Used ResNet-50 + Grad-CAM to visualize and detect pneumonia from chest X-rays.  
+
+**🗣️ Real-Time Lip Sync AI**  
+Deployed interactive lip-sync ML pipeline using YOLOv8, Docker, and deep audio-visual learning.
+
+---
+
+## 🌐 Let’s Build Together
+
+I’m open to **new grad roles**, **internships**, and **collaborations** in:
+
+- Data & AI Strategy  
+- Machine Learning Consulting  
+- Intelligent Systems R&D  
+- Scalable AI Products  
+
+Let’s connect and explore how we can build something impactful.  
+📫 **atrearyan@gmail.com** | 🔗 [LinkedIn](https://linkedin.com/in/your-link)
+
+---
+
+> “Machine learning is powerful — but strategy makes it unstoppable.”
